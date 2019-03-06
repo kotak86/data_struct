@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/word-pattern-ii/description/
+
 public class Solution {
   
   public boolean wordPatternMatch(String pattern, String str) {
